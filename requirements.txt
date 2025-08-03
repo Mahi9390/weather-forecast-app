@@ -1,6 +1,8 @@
 streamlit
+keras
+tensorflow
 pandas
 numpy
 matplotlib
 plotly
-requests
+scikit-learn
