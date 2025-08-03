@@ -5,7 +5,8 @@ import datetime
 import os
 import matplotlib.pyplot as plt
 import plotly.express as px
-from keras.models import load_model
+from tensorflow.keras.models import load_model
+
 from sklearn.preprocessing import MinMaxScaler
 
 # === Setup paths ===
